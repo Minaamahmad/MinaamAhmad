@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Minaam!
 
-<!--
-**Minaamahmad/MinaamAhmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer based in Lahore, currently finishing up my degree. I love building scalable web applications and exploring the world of Web3.
 
-Here are some ideas to get you started:
+### 🔭 What I'm up to:
+- **Current Focus:** Wrapping up my Final Year Project (FYP).
+- **Learning:** Deep diving into **TypeScript** and advanced Backend Architecture.
+- **Open to:** Collaborating on Open Source projects or innovative startups.
 
-- 🔭 I’m currently working on my FYP
-- 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on Projects
-- 🤔 I’m looking for help with Sessions
-- 💬 Ask me about Javascript
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I'm new 
--->
+### 💬 Let's Chat!
+- **Ask me about:** JavaScript, MERN Stack, or why I chose FAST-NUCES.
+- **Reach me:** [LinkedIn](https://www.linkedin.com/in/minaamahmad123) 
+- **Fun fact:** I might be "new," but I've already survived the FAST grading system. ⚡
+
+---
