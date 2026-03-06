@@ -8,7 +8,7 @@ I'm a Software Engineer based in Lahore, currently finishing up my degree. I lov
 - **Open to:** Collaborating on Open Source projects or innovative startups.
 
 ### 💬 Let's Chat!
-- **Ask me about:** JavaScript, MERN Stack, or why I chose FAST-NUCES.
+- **Ask me about:** JavaScript, MERN Stack some Python
 - **Reach me:** [LinkedIn](https://www.linkedin.com/in/minaamahmad123) 
 
 
