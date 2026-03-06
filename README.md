@@ -10,6 +10,6 @@ I'm a Software Engineer based in Lahore, currently finishing up my degree. I lov
 ### 💬 Let's Chat!
 - **Ask me about:** JavaScript, MERN Stack, or why I chose FAST-NUCES.
 - **Reach me:** [LinkedIn](https://www.linkedin.com/in/minaamahmad123) 
-- **Fun fact:** I might be "new," but I've already survived the FAST grading system. ⚡
+
 
 ---
