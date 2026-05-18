@@ -3,11 +3,11 @@
 I'm a Web Developer based in Lahore, currently finishing up my degree. I love building scalable web applications and exploring the world of Web
 
 ### 🔭 What I'm up to:
-- **Current Focus:** Wrapping up my Final Year Project (FYP).
+- **Current Focus:** Wrapping up my Final Year Project (FYP) and Learning TypeScript .
 - **Open to:** Collaborating on Open Source projects or innovative startups.
 
 ### 💬 Let's Chat!
-- **Ask me about:** JavaScript, MERN Stack 
+- **Ask me about:** TypeScript, MERN Stack 
 - **Reach me:** [LinkedIn](https://www.linkedin.com/in/minaamahmad123) 
 
 
