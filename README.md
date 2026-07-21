@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **minaamahmad@gmail.com**
 
-- ⚡ Fun fact **Even I dont know**
+- ⚡ Fun fact **The original "bug" that inspired the software engineering term was actually a real, physical moth**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
