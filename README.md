@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=minaamahmad&label=Profile%20views&color=0e75b6&style=flat" alt="minaamahmad" /> </p>
-<p align="center">
+<p align="center"/>
   
 - 🔭 I’m currently working on [Cardify](https://github.com/Minaamahmad/game)
 
