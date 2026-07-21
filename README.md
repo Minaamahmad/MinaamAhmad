@@ -2,7 +2,8 @@
 <h3 align="center">A Full Stack Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=minaamahmad&label=Profile%20views&color=0e75b6&style=flat" alt="minaamahmad" /> </p>
-
+<p align="center">
+  
 - 🔭 I’m currently working on [Cardify](https://github.com/Minaamahmad/game)
 
 - 🌱 I’m currently learning **TypeScript,PostgreSQL**
@@ -16,6 +17,9 @@
 - 📫 How to reach me **minaamahmad@gmail.com**
 
 - ⚡ Fun fact **Even I dont know**
+
+  </p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
