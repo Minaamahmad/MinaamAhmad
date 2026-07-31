@@ -15,7 +15,7 @@
 
 - 📝 I write articles on [https://medium.com/@minaamahmad](https://medium.com/@minaamahmad)
 
-- 💬 Ask me about **React , Next.js**
+- 💬 Ask me about **React , Next.js , Node.js**
 
 - 📫 How to reach me **minaamahmad@gmail.com**
 
