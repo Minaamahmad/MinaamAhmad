@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a [Browser game](https://github.com/Minaamahmad/game)
 
-- 🌱 I’m currently learning **TypeScript,PostgreSQL**
+- 🌱 I’m currently learning **TypeScript,PostgreSQL
 
 - 👨‍💻 All of my projects are available at [http://minaamahmad.me/](http://minaamahmad.me/)
 
