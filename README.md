@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [Cardify](https://github.com/Minaamahmad/game)
+- 🔭 I’m currently working on a [Browser game](https://github.com/Minaamahmad/game)
 
 - 🌱 I’m currently learning **TypeScript,PostgreSQL**
 
@@ -34,6 +34,6 @@
 
 <p align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=MinaamAhmad&include_all_commits=true&theme=gruvbox_light" alt="MinaamAhmad's GitHub stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=MinaamAhmad&include_all_commits=true&count_private=true&theme=gruvbox_light&cache_seconds=1800" alt="MinaamAhmad's GitHub stats" />
   </a>
 </p>
