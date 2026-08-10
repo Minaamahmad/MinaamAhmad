@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on a [multiplayer game ](https://github.com/Minaamahmad/game)
+- 🔭 I’m currently working on a game that's mostly done  [multiplayer game ](https://github.com/Minaamahmad/game)
 
 - 🌱 I’m currently learning **TypeScript,PostgreSQL,python
 
