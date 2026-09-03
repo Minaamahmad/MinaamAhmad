@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minaam Ahmad</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<h3 align="center">A Full Stack Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MinaamAhmad&color=green" alt="Profile Views" />
