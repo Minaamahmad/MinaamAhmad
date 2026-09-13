@@ -1,39 +1,49 @@
-<h1 align="center">Hi 👋, I'm Minaam Ahmad</h1>
-<h3 align="center">A Full Stack Engineer</h3>
+# 👋 I'm Minaam Ahmad
+### Full Stack Engineer | Technical Writer | Creative Developer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MinaamAhmad&color=green" alt="Profile Views" />
+<p align="left">
+<a href="https://linkedin.com/in/minaamahmad123"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="http://minaamahmad.me/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://medium.com/@minaamahmad"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="mailto:minaamahmad@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+---
 
+### 💻 Profile Summary
+I specialize in building scalable web applications and interactive digital experiences. With a background in **Full Stack Development**, I bridge the gap between complex backend logic and sleek, modern frontends.
 
-- 🔭 I’m currently working on a multiplayer game](https://github.com/Minaamahmad/game)
+- 🔭 **Current Project:** Building a [Real-time Multiplayer Game](https://github.com/Minaamahmad/game) using high-performance architecture.
+- 🌱 **Learning:** Enhancing my backend capabilities with **Python** and System Design.
+- 💬 **Ask me about:** React, Next.js, Node.js, and Cloud Infrastructure.
+- ⚡ **Fun Fact:** The first "bug" was a moth trapped in a computer relay.
 
-- 🌱 I’m currently learning **Python
+---
 
-- 👨‍💻 All of my projects are available at [http://minaamahmad.me/](http://minaamahmad.me/)
+### 🛠️ Technical Expertise
 
-- 📝 I write articles on [https://medium.com/@minaamahmad](https://medium.com/@minaamahmad)
+| Category | Stack |
+| :--- | :--- |
+| **Frontend** | React, Next.js, TypeScript, TailwindCSS, Bootstrap |
+| **Backend** | Node.js, Express, Django, Python, Java |
+| **Database** | PostgreSQL, MongoDB, MySQL |
+| **DevOps/Tools** | Docker, GCP, Git, Linux, Figma, Blender |
 
-- 💬 Ask me about **React , Next.js , Node.js**
+---
 
-- 📫 How to reach me **minaamahmad@gmail.com**
+### 📊 Engineering Metrics
 
-- ⚡ Fun fact **The original "bug" that inspired the software engineering term was actually a real, physical moth**
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/minaamahmad123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minaamahmad123" height="30" width="40" /></a>
-<a href="https://medium.com/@minaamahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@minaamahmad" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=MinaamAhmad&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinaamAhmad&layout=compact&theme=radical&hide_border=true" width="42%" />
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MinaamAhmad&color=0077B5&style=flat-square&label=PROFILE+VIEWS" />
+</p>
 
-
+---
 
 <p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=MinaamAhmad&include_all_commits=true&count_private=true&theme=gruvbox_light&cache_seconds=1801" alt="MinaamAhmad's GitHub stats" />
-  </a>
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
