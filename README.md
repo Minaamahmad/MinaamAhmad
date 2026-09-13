@@ -1,68 +1,67 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Minaam%20Ahmad&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20|%20Technical%20Writer&descAlignY=55&descSize=25" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=300&section=header&text=MINAAM%20AHMAD&fontSize=90&fontAlignY=45&animation=twinkling&desc=FULL%20STACK%20ENGINEER%20•%20TECHNICAL%20ARCHITECT&descAlignY=65&descSize=20" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Building+scalable+web+apps;Crafting+interactive+games;Writing+clean+code;Full+Stack+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=System+Design+%26+Architecture;Full+Stack+Development;Interactive+Digital+Experiences;Scalable+Web+Solutions" alt="Typing SVG" />
 </p>
+
+<div align="center">
+  <a href="https://linkedin.com/in/minaamahmad123"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="http://minaamahmad.me/"><img src="https://img.shields.io/badge/-Portfolio-21262d?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://medium.com/@minaamahmad"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="mailto:minaamahmad@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+<br/>
 
 ---
 
-### ⚡ Quick Bio
+### 🌌 The Workspace
+
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <p>I am a <b>Full Stack Engineer</b> who loves bridging the gap between design and high-performance backend architecture. I specialize in the <b>MERN stack</b> and <b>Next.js</b>, with a growing passion for Python automation.</p>
+      <h4>🚀 Current Trajectory</h4>
       <ul>
-        <li>🔭 Working on: <a href="https://github.com/Minaamahmad/game">Multiplayer Game</a></li>
-        <li>✍️ Writing: <a href="https://medium.com/@minaamahmad">Technical Articles</a></li>
-        <li>📫 Reach me: <b>minaamahmad@gmail.com</b></li>
+        <li><b>Building:</b> High-performance <a href="https://github.com/Minaamahmad/game">Multiplayer Game</a> infrastructure.</li>
+        <li><b>Exploring:</b> Advanced <code>Python</code> design patterns & Backend Scalability.</li>
+        <li><b>Writing:</b> Deep-dives into React & Node internals on <a href="https://medium.com/@minaamahmad">Medium</a>.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <p align="center">
-        <a href="https://linkedin.com/in/minaamahmad123"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br>
-        <a href="http://minaamahmad.me/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" /></a><br>
-        <a href="https://medium.com/@minaamahmad"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-      </p>
+      <h4>🛠️ Core Expertise</h4>
+      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,django,docker,gcp" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Technical Arsenal
-
-<div align="center">
-
-| **Frontend** | **Backend** | **Data & Cloud** |
-| :--- | :--- | :--- |
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![Postgres](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
-| ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) | ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) |
-
-</div>
-
----
-
-### 📈 Activity Metrics
+### 📊 System Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinaamAhmad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinaamAhmad&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MinaamAhmad&show_icons=true&theme=transparent&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinaamAhmad&layout=compact&theme=transparent&title_color=58A6FF&text_color=c9d1d9&hide_border=true" width="42%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinaamAhmad&theme=tokyonight&hide_border=true" width="91%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinaamAhmad&theme=transparent&stroke=58A6FF&fire=58A6FF&ring=58A6FF&currStreakLabel=58A6FF&hide_border=true" width="91%" />
 </p>
 
 ---
 
+### 📽️ Contribution Activity
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MinaamAhmad&color=42A5F5&style=flat-square&label=VISITORS" />
+  <img src="https://raw.githubusercontent.com/Minaamahmad/Minaamahmad/output/github-contribution-grid-snake.svg" alt="Activity Snake" width="100%" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MinaamAhmad&color=58A6FF&style=flat-square&label=PROFILE+VISITS" />
 </p>
 
 <p align="center">
-  <i>"Simplicity is the soul of efficiency."</i>
+  <sub><i>"The best way to predict the future is to invent it."</i></sub>
 </p>
