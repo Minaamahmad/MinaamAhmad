@@ -1,40 +1,50 @@
-<h1 align="center">Minaam Ahmad</h1>
+# Minaam Ahmad
 
-<p align="center">
-  MERN developer building full-stack products end to end — auth, real-time systems, and deployment included.
-</p>
+MERN developer. I ship the full thing — auth, real-time layer, and the deploy that breaks in ways tutorials don't cover.
 
-<p align="center">
-  <a href="https://linkedin.com/in/minaamahmad123"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="http://minaamahmad.me/"><img src="https://img.shields.io/badge/-Portfolio-21262d?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://medium.com/@minaamahmad"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a>
-  <a href="mailto:minaamahmad@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+[LinkedIn](https://linkedin.com/in/minaamahmad123) · [Portfolio](http://minaamahmad.me/) · [Medium](https://medium.com/@minaamahmad) · [minaamahmad@gmail.com](mailto:minaamahmad@gmail.com)
 
 ---
 
-### Currently building
+### What I'm building right now
 
-- **Capture Cards** — a real-time multiplayer card game (Next.js 16, React 19, Socket.IO), with a React Native port in progress
-- Strengthening Python + FastAPI as a second stack alongside MERN
-- Learning Docker and Odoo architecture for backend/ERP work
+A real-time multiplayer card game — the part everyone underestimates is the state sync, not the UI. Here's the shape of it:
 
-### Featured projects
+```ts
+// gameEngine.ts — every action returns a typed result, never a bare exception.
+// The server broadcasts on success, replies with the reason on failure —
+// no client ever guesses why a move was rejected.
 
-**[Prime Booking](https://github.com/Minaamahmad)** — Full-stack hotel booking platform
-MERN · Socket.IO · Google OAuth · JWT · RBAC, deployed on Vercel + Render.
+type ActionResult<T> =
+  | { ok: true; state: T }
+  | { ok: false; reason: 'not_your_turn' | 'invalid_move' | 'room_full' };
 
-**[Capture Cards](https://github.com/Minaamahmad/game)** — Real-time multiplayer card game
-Next.js · Socket.IO · Framer Motion · Tailwind, with a custom TypeScript game engine.
+function playCard(room: GameRoom, playerId: string, card: Card): ActionResult<GameState> {
+  if (room.currentTurn !== playerId) return { ok: false, reason: 'not_your_turn' };
+  if (!isLegalMove(room.state, card))  return { ok: false, reason: 'invalid_move' };
 
-**[AutoBot](https://github.com/Minaamahmad)** — TikTok-to-Facebook repost automation
-Node.js · Redis · Facebook Graph API, running on a cron schedule via Render.
+  const state = applyMove(room.state, card);
+  return { ok: true, state };
+}
+```
 
-### Stack
+Next.js 16 + React 19 on the client, Socket.IO for the room/turn logic, a React Native port so it isn't stuck in the browser. Repo: [github.com/Minaamahmad/game](https://github.com/Minaamahmad/game)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,docker" />
-</p>
+### Shipped, not just committed
+
+**Prime Booking** — hotel booking platform, MERN + Socket.IO + Google OAuth + JWT/RBAC, live on Vercel/Render.
+The interesting part wasn't the CRUD — it was getting cross-origin cookies (`sameSite: 'none'`, `secure: true`) and the OAuth redirect URIs to actually agree with each other in production.
+
+**AutoBot** — a Node.js service that pulls TikTok videos and reposts them to Facebook Pages on a cron, backed by Redis, talking to the Graph API with a permanent Page token.
+Migrated `yt-dlp` into Docker mid-project after Render's environment stopped cooperating with cookie-based auth.
+
+**Capture Cards** — see above.
+
+### Stack I reach for
+
+`JavaScript` `TypeScript` `React` `Next.js` `Node.js` `Express` `Socket.IO` `MongoDB` `PostgreSQL` `Python` `Docker`
+
+Currently adding FastAPI and Odoo to that list.
 
 ---
 
