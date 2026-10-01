@@ -22,16 +22,6 @@
 
 ---
 
-### About Me
-
-I build full-stack web applications and real-time distributed interfaces. My focus centers on what happens beyond the happy path: multi-client state synchronization, zero-trust authentication across origins, and production reliability.
-
-- 🔭 **Currently Building:** Real-time multiplayer synchronization engines and micro-services.
-- ⚡ **Core Focus:** Node.js/TypeScript backend architecture, server-authoritative state, and cross-origin auth flows.
-- 🛠️ **Approach:** Code that holds up under concurrency, race conditions, and production constraints.
-
----
-
 ### Tech Stack
 
 | Domain | Technologies |
