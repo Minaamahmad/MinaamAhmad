@@ -1,7 +1,7 @@
 <div align="center">
 
 # Minaam Ahmad
-### Full-Stack Software Engineer 
+### Full-Stack Engineer 
 
 <p align="center">
   <a href="https://github.com/MinaamAhmad">
